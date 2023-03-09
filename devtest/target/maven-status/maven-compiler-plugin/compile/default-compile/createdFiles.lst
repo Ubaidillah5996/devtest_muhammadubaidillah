@@ -1,0 +1,11 @@
+com\muhammadubaidillah\devtest\controller\DevtestController.class
+META-INF\panache-archive.marker
+com\muhammadubaidillah\devtest\model\Devtest.class
+com\muhammadubaidillah\devtest\service\DevtestService.class
+com\muhammadubaidillah\devtest\dto\DevtestReq.class
+com\muhammadubaidillah\MyEntity.class
+com\muhammadubaidillah\GreetingResource.class
+com\muhammadubaidillah\devtest\repository\DevtestRepository.class
+com\muhammadubaidillah\MyRemoteService$Extension.class
+com\muhammadubaidillah\devtest\dto\DevtestResp.class
+com\muhammadubaidillah\MyRemoteService.class
